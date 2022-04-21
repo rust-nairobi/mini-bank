@@ -38,4 +38,11 @@ We shall have microservices
  	This will serve as an internet banking web interface to help customers transact and view their account. The admins will be offered an interface to control and set variuos configurations within the platform 
 
 
+We follow the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) in making contributions
+
+License
+All code contributions to this project must be licensed under Apache license
+
+Acknowledgement
+All libraries used in this project are subject to their own licenses
 
