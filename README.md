@@ -7,6 +7,9 @@ The project is not intended to follow any ISO standards and its basically for de
 
 [![GitHub stars](Contributing)](https://github.com/rust-nairobi/mini-bank/stargazers/)
 If you like what we do, consider starring, commenting, sharing and contributing!
+
+We follow the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct) in making contributions
+
 Read our [code of conduct](https://github.com/rust-nairobi/mini-bank/blob/main/CODE_OF_CONDUCT.md) and [Contributing memo](https://github.com/rust-nairobi/mini-bank/blob/main/CONTRIBUTING.md)
 
 ## Tooling
