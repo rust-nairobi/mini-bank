@@ -32,5 +32,9 @@ We shall have microservices
     This will be a notification service and a callabck service as well.
     It will run background check to complete async processes and close pending and hanging transactions
 
+ 4. Web UI
+
+ 	This will serve as an internet banking web interface to help customers transact and view their account. The admins will be offered an interface to control and set variuos configurations within the platform 
+
 
 
