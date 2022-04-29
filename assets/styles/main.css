@@ -1,0 +1,40 @@
+.palette-01 {
+    color: #FFFFFF;
+    background-color: #C33C33;
+}
+
+.palette-02 {
+    color: #cccccc;
+    background-color: #C33C33;
+}
+
+.palette-03 {
+    color: #333333;
+    background-color: #FFFFFF;
+}
+
+.palette-04 {
+    color: #C33C33;
+    background-color: #FFFFFF;
+}
+
+.height-100vh {
+    height: 100vh !important;
+}
+
+.height-100vhmin {
+    min-height: 100vh !important;
+}
+
+body {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.svg-50 {
+    width: 50% !important;
+}
+
+.width-100 {
+    width: 100% !important;
+}
