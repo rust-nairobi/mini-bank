@@ -49,23 +49,3 @@ All code contributions to this project must be licensed under Apache license
 Acknowledgement
 All libraries used in this project are subject to their own licenses
 
-#### Running the UI
-
-1. Follow the installation instructions as indicated on the sycamore website - https://sycamore-rs.netlify.app/docs/getting_started/installation
-
-2. Switch to the UI directory
-
-   ```sh
-   $ cd MiniBank-UI
-   ```
-
-3. Run trunk
-
-   ```sh
-   $ trunk serve
-   ```
-
-   
-
-
-
